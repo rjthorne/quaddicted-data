@@ -1,11 +1,11 @@
 {
- "bytes": 154237368,
+ "bytes": 154219071,
  "description": "Episode of five main maps (plus start, end and secret level) ranging from medium-large to huge, with imaginitive designs, expansive non-linear layouts and thick atmosphere, plus several new monsters and weapons.",
  "files": {
   "tombofthunder/": {
    "bytes": 0,
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2024-07-12T00:42:28.000Z"
+   "timestamp": "2024-10-02T22:55:38.000Z"
   },
   "tombofthunder/LibreQuake docs.zip": {
    "bytes": 14973,
@@ -45,9 +45,9 @@
    "timestamp": "2024-05-18T23:14:36.000Z"
   },
   "tombofthunder/TOMBOFTHUNDER2024_README.txt": {
-   "bytes": 12877,
-   "sha256": "e37771b79844ea79fea5d14c3e1b0a1668b804e21bafbc0fb9c9f617faaf6a62",
-   "timestamp": "2024-07-08T08:36:24.000Z"
+   "bytes": 12973,
+   "sha256": "25e7abc6c335179e43f8331c5c9e7d88794513e62b4687310836e838ecf7a283",
+   "timestamp": "2024-07-24T10:00:00.000Z"
   },
   "tombofthunder/Tomb of Thunder - Secrets guide.docx": {
    "bytes": 10513,
@@ -187,7 +187,7 @@
   "tombofthunder/maps/": {
    "bytes": 0,
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2024-07-01T13:48:16.000Z"
+   "timestamp": "2024-07-23T14:25:14.000Z"
   },
   "tombofthunder/maps/discipletest.bsp": {
    "bytes": 165112,
@@ -256,33 +256,33 @@
   },
   "tombofthunder/maps/tot4a.bsp": {
    "bytes": 21577920,
-   "sha256": "cf98f6d9f824f0397486855f52aad2c216d7f6ccbaa4d4c519c8bc449fa0df96",
-   "timestamp": "2024-07-01T11:39:44.000Z"
+   "sha256": "70dd194f7fb8266181e88dde2352927d3e2f250f6eb9a4857564979ff9945063",
+   "timestamp": "2024-07-24T09:26:14.000Z"
   },
   "tombofthunder/maps/tot4a.lit": {
    "bytes": 12336056,
-   "sha256": "c02cdbd35ccf2b113ee47c169890ff3b48a3616be105825b8b35346b409a24c4",
-   "timestamp": "2024-07-01T11:39:30.000Z"
+   "sha256": "1dcf6a8a92d4ee1607de8dd770f5ae9b1ed6a7a3890aa8d91c336d1865b68bf9",
+   "timestamp": "2024-07-24T09:25:54.000Z"
   },
   "tombofthunder/maps/tot4b.bsp": {
-   "bytes": 21577920,
-   "sha256": "c67ea1fdcb5e95b7d509a8707bcd71a85d4f992a2bf8c70c87aff1b5ee70c1ee",
-   "timestamp": "2024-07-01T12:13:34.000Z"
+   "bytes": 21577448,
+   "sha256": "40533ce1fee444e69a8247c9adb55bb467b002e50ca922dff656dc2f054b58f1",
+   "timestamp": "2024-07-24T09:43:06.000Z"
   },
   "tombofthunder/maps/tot4b.lit": {
    "bytes": 12336056,
-   "sha256": "e8381d1d5fb487f494226745e2b3732eb11809e08e9e2b0de7c902575baa4570",
-   "timestamp": "2024-07-01T12:13:18.000Z"
+   "sha256": "96985572c8c605226e47dd367f6dcb5c9b606e9e5fc87ba01a388bc7383f5afe",
+   "timestamp": "2024-07-24T09:42:46.000Z"
   },
   "tombofthunder/maps/tot4c.bsp": {
-   "bytes": 21578404,
-   "sha256": "b6bfb4c99a8635217ba78b65563e69dc583810f923e63858a72fe6dae42ad75a",
-   "timestamp": "2024-07-01T12:31:30.000Z"
+   "bytes": 21581368,
+   "sha256": "1964787fc503b3b30d3ab57515b69383c05f1a688aca2e2513c7f57e716f5843",
+   "timestamp": "2024-07-24T09:58:08.000Z"
   },
   "tombofthunder/maps/tot4c.lit": {
-   "bytes": 12336056,
-   "sha256": "3626f60058a239c2cac30108b038a35909768e09973f5df684085f75e1eb00c6",
-   "timestamp": "2024-07-01T12:31:06.000Z"
+   "bytes": 12337112,
+   "sha256": "5a10f8bff843c1ff701ad6789070def2958c15121761de7f363c7259cbcd0a88",
+   "timestamp": "2024-07-24T09:57:48.000Z"
   },
   "tombofthunder/maps/tot5.bsp": {
    "bytes": 23201000,
@@ -2425,7 +2425,7 @@
   "tombofthunder/srcMAP/": {
    "bytes": 0,
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "timestamp": "2024-05-27T11:31:24.000Z"
+   "timestamp": "2024-07-23T14:25:14.000Z"
   },
   "tombofthunder/srcMAP/seeyou.map": {
    "bytes": 277131,
@@ -2453,19 +2453,19 @@
    "timestamp": "2024-07-01T11:20:32.000Z"
   },
   "tombofthunder/srcMAP/tot4a.map": {
-   "bytes": 13120503,
-   "sha256": "7d5038a631c8ca822e10a87299bbb663e6159c28833d51294c929c4c37465b2c",
-   "timestamp": "2024-07-01T10:58:42.000Z"
+   "bytes": 13120502,
+   "sha256": "27b27b546100df9d945e2a7ec91caba3508217189b53d72c8b354729b95d293a",
+   "timestamp": "2024-07-24T09:13:24.000Z"
   },
   "tombofthunder/srcMAP/tot4b.map": {
-   "bytes": 13120503,
-   "sha256": "433e98b96489aaf904f198ac9ac7bc52e387ee458d0917bbf927c3d17b535f84",
-   "timestamp": "2024-07-01T11:00:32.000Z"
+   "bytes": 13119938,
+   "sha256": "81ec78d2ceeca33958fbf3adc7428a5296388135b7cc01275c272367eeb342bd",
+   "timestamp": "2024-07-24T09:13:16.000Z"
   },
   "tombofthunder/srcMAP/tot4c.map": {
-   "bytes": 13121095,
-   "sha256": "07308bd72bdd86051d8b63d777bb8111b589cbcc8bb2b7df4b28de4b971222f0",
-   "timestamp": "2024-07-01T11:00:56.000Z"
+   "bytes": 13120507,
+   "sha256": "4ef9809c317a0e69bc8fad152d4285d35fbfee6a064ed1768c63399b073c3948",
+   "timestamp": "2024-07-24T09:13:10.000Z"
   },
   "tombofthunder/srcMAP/tot5.map": {
    "bytes": 13028554,
@@ -2498,27 +2498,29 @@
  },
  "json_version": "2023.11.06-23.20",
  "notes": [
-  "An updated version can be found <a href=\"dee9623f95eff90701883a0b96d6b3a6adf2feae77e0c74f0864b3258c76a933\">here</a>.",
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
- "sha256": "65894a8a8a6be1d28d6f7ee5a653f67aaaaa8a27846a8f5ba181fc9123d15059",
+ "sha256": "dee9623f95eff90701883a0b96d6b3a6adf2feae77e0c74f0864b3258c76a933",
  "tags": [
   "author=aDaya",
   "commandline=-game tombofthunder",
+  "current_main_group_package=yes",
   "exceeds_quake_limits=yes",
-  "filename=tombofthunder_mod_2024_v1032a.zip",
+  "filename=tombofthunder_mod_2024_v1032b.zip",
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/tomb-of-thunder.357/)",
-  "provides='tombofthunder=1032a'",
-  "release_date=2024-07-08",
+  "provides='tombofthunder=1032b'",
+  "release_date=2024-07-24",
   "release_group=tombofthunder",
   "startmap=start",
   "title=Tomb of Thunder",
   "type=episode",
   "type=mod",
-  "version=1032a"
+  "version=1032b"
  ],
- "urls": []
+ "urls": [
+  "https://x901.net/quaddictedfiles/tombofthunder_mod_2024_v1032b.zip"
+ ]
 }
