@@ -22,9 +22,6 @@
   "extract": "{base}/id1/maps/"
  },
  "json_version": "2023.11.06-23.20",
- "notes": [
-  "An updated version can be found <a href=\"68b42dbcdae2b9e7136f0575034b6eebdd67dfa7c3a9af06b65904aadeae225a\">here</a>."
- ],
  "sha256": "e5cb36d0adf69c587523f0f1706c6cd01602cd41e690adfb9c998691966fa0e0",
  "tags": [
   "author=Carter",
@@ -32,13 +29,10 @@
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/1024-cement-mixer.370/)",
-  "provides='tc_cemix=1.0'",
   "release_date=2024-07-11",
-  "release_group=tc_cemix",
   "startmap=tc_cemix",
   "title=1024 Cement Mixer",
   "type=map",
-  "version=1.0",
   "zipbasedir=id1/maps/"
  ],
  "urls": [

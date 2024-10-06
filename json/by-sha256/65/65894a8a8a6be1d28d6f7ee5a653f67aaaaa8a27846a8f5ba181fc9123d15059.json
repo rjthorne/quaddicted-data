@@ -2498,7 +2498,6 @@
  },
  "json_version": "2023.11.06-23.20",
  "notes": [
-  "An updated version can be found <a href=\"dee9623f95eff90701883a0b96d6b3a6adf2feae77e0c74f0864b3258c76a933\">here</a>.",
   "This file was repackaged for Quake Injector compatibility.",
   "May require a source port with increased limits / BSP2 support."
  ],
@@ -2511,14 +2510,11 @@
   "game=quake",
   "game_mode=singleplayer",
   "link=[Slipseer page](https://www.slipseer.com/index.php?resources/tomb-of-thunder.357/)",
-  "provides='tombofthunder=1032a'",
   "release_date=2024-07-08",
-  "release_group=tombofthunder",
   "startmap=start",
   "title=Tomb of Thunder",
   "type=episode",
-  "type=mod",
-  "version=1032a"
+  "type=mod"
  ],
  "urls": []
 }
